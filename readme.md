@@ -23,7 +23,7 @@ Cuatro funciones de JavaScript propuestas por el mentor. Las cuatro funciones de
 
 ## How to use it
 
-1. Execute node index.js
+1. Run `node index.js`
 2. Profit!
 
 ## Comments
