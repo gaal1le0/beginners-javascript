@@ -10,12 +10,7 @@
 
 ## Summary
 
-Cuatro funciones de JavaScript propuestas por el mentor. Las cuatro funciones deben ser construidas utilizando programación funcional imperativa exclusivamente, y sin el uso de Objetos.
-
-* # crear una funcion que genere una escusa aleatoria con esos datos 
-# creeis otra funcion que cuente el numero de repeticiones de letras en cada array
-# suprimir repeticiones en un array y devolver el array sin la repeticion
-# function que invierta todos los valores de el array
+Cuatro funciones de JavaScript propuestas por el mentor. Las cuatro funciones deben ser construidas utilizando programación funcional imperativa exclusivamente, y sin el uso de Objetos:
 
 * La función **excuseGenerator** genera una excusa aleatoria a partir de tres arrays que incluyan nombre, apellido y excusa.
 * La función **lettersInArray** cuenta cuantas repeticiones de cada letra hay en un array dado, llamando recursivamente a una función de conteo.
